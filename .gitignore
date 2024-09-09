@@ -2,3 +2,5 @@
 !stance_detection.ipynb
 !.gitignore
 !env.yml
+!/archive/
+!/archive/**
