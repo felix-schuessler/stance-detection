@@ -4,3 +4,4 @@
 !env.yml
 !/archive/
 !/archive/**
+!README.md
